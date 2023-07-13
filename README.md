@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 
-# 🏷️ Awesome Books App Javascript To Do List
+# 🏷️ Awesome Books App To Do List
 
 This is the second project in the second module in the **Microverse** program.
 <br/>
@@ -12,7 +12,7 @@ Check the below contents for further details about this project.
 
 # 📗 Contents
 
-- [🏷️ Awesome Books App Javascript To Do List](#️-awesome-books-app-javascript-to-do-list)
+- [🏷️ Awesome Books App To Do List](#️-awesome-books-app-to-do-list)
 - [📗 Contents](#-contents)
 - [📖 Description](#-description)
 - [🛠️ Instructions](#️-instructions)
@@ -30,10 +30,10 @@ Check the below contents for further details about this project.
 # 📖 Description
 
 This project is about building a book management app. It contains three main files (`index.html` / `style.css` / `script.js`).
-It also includes some config linters for (`HTML` / `CSS3` / `JavaScript`) in the `.github` folder. 
+It also includes some config linters for (`HTML` / `CSS3` / `JavaScript` /'webpack') in the `.github` folder. 
 
 📌 **Live Demo:**
-- See the project live from [here](https://github.com/obibaadoma/Awsome_Books_Javascript)
+- See the project live from [here](https://github.com/obibaadoma/webpack)
 
 📌 **Tech Stack:**
 - Page strucutre is built with `HTML5`
