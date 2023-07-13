@@ -1,30 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css"
-    />
-    <title>To do list Exercise</title>
-  </head>
-  <body>
-    <div class="lists">
-      <div class="header">
-        <h2 class="list-title">To Do List</h2>
-        <button class="btn btn-refresh">
-          <i class="bi bi-arrow-repeat"></i>
-        </button>
-      </div>
-      <form>
-        <input type="text" id="input" placeholder="Add to your list" />
-      </form>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To do List: Add and Remove</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 
-      <div class="lists-holder"></div>
-
-      <button class="btn btn-clear" type="button">Clear all completed</button>
+</head>
+</head>
+<body>
+    
+    <div class="wrapper">
+        <div class ="task-lists title part"> 
+            <p class ="opacity"> Today's To Do </p>
+            <button type = "button" class = "btn refresh">
+            <i class="fa fa-refresh"></i>  
+            </button>
+          </div>
+          <div class = "add-part part">
+            <input type = "text" id = "input-task" name = "task-add" placeholder = "Add your list here ..." class ="opacity">
+            <button type = "button" class = "btn add-btn">
+              <i class="fa-solid fa-turn-down-left"></i>
+            </button>
+          </div>
+          <div class="lists-container"></div>
+          <button type="button" class="clear-btn">
+            Clear all completed
+          </button>
     </div>
-  </body>
+ 
+</body>
 </html>
-<!--comment-->
