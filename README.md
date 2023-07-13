@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 
-# 🏷️ Awesome Books App Javascript
+# 🏷️ Awesome Books App Javascript To Do List
 
 This is the second project in the second module in the **Microverse** program.
 <br/>
@@ -12,7 +12,7 @@ Check the below contents for further details about this project.
 
 # 📗 Contents
 
-- [🏷️ Awesome Books App Javascript](#️-awesome-books-app-javascript)
+- [🏷️ Awesome Books App Javascript To Do List](#️-awesome-books-app-javascript-to-do-list)
 - [📗 Contents](#-contents)
 - [📖 Description](#-description)
 - [🛠️ Instructions](#️-instructions)
